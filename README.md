@@ -1,4 +1,4 @@
-# Un blog per imparare stare insieme, da lontano
+# Un blog per imparare a stare insieme, da lontano
 
 Siamo un gruppo di sviluppatori che da sempre lavorano da casa. Vogliamo farci sentire, aiutando chiunque ne senta il bisogno a digitalizzare la vita di tutti i giorni. Dal lavoro agli aperitivi, dalle cene ai meeting. 
 
