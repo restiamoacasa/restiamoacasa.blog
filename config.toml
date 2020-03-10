@@ -2,3 +2,5 @@ baseURL = "https://restiamoacasa.blog/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "restiamoacasa"
+pygmentsstyle = "monokai"
+paginate = 6
